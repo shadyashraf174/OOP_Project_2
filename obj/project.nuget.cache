@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dXW/yVuFMW/cNy6Fk99mvNXJYNoSW84rJIChA6uCpmX1ddaBmgQijl0A90GBMtJHClVBF5gBVqSJ7iiu6oVLLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shady\\source\\repos\\Abdelgelil_project_2\\Abdelgelil_project_2\\Abdelgelil_project_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shady\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
